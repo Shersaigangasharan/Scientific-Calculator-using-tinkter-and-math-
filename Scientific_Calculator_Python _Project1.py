@@ -37,11 +37,11 @@ inbox.grid(row= 0, column= 0, columnspan= 5)
 #keyboard layout
 keypad = [
     '7', '8', '9', '/', 'Clr',
-    '4', '5', '6', '*', 'sqr',
+    '4', '5', '6', '*', 'sqrt',
     '1', '2', '3', '-', 'pow',
     '0', '.', '+', '=', 'log',
-    '(', '))', 'sin', 'cos',
-    'tan', 'csc', 'sec', 'cot',')',','
+    '(', '))',')',',','sin',
+    'cos','tan', 'csc', 'sec', 'cot'
 ]
 
 row = 1

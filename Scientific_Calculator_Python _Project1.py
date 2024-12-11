@@ -41,7 +41,7 @@ keypad = [
     '1', '2', '3', '-', 'pow',
     '0', '.', '+', '=', 'log',
     '(', '))', 'sin', 'cos',
-    'tan', 'csc', 'sec', 'cot','','Clr'
+    'tan', 'csc', 'sec', 'cot',')',','
 ]
 
 row = 1

@@ -3,7 +3,7 @@ This project is a simple scientific calculator which aims to have a variety of s
 
 ## The Scientific Calculator :
 *	with various following functions to evaluate:
-*	
+
 *	Additon:
 
 
